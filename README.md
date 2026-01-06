@@ -26,6 +26,10 @@ An iOS application that combines Augmented Reality (AR) with restaurant menu man
 - **QR Code Generation**: Generate QR codes for easy menu sharing
 - **Responsive UI**: Built with SwiftUI for a modern, intuitive interface
 
+## Demo
+
+Check out the live demo of ARMenu in action: [https://armenu.jeffnawroth.me](https://armenu.jeffnawroth.me)
+
 ## Technology Stack
 
 - **Language**: Swift
@@ -145,4 +149,3 @@ The app uses Firebase services:
 - FirebaseAuth
 - FirebaseFirestore
 - FirebaseAnalytics
-- (Other Firebase pods as per CocoaPods setup)
